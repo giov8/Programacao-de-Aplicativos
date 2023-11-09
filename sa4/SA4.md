@@ -9,3 +9,8 @@ Durante a aula criamos um simulador de gerenciador de arquivos.
 
 Acrescentar o arquivo **.CS** no AVA, em Avaliações > Atividade Presencial da SA4. Até hoje 09/11/2023 antes do fim da aula!
 ![image](https://github.com/giov8/sa4-sa5/assets/77603677/e26e1f8c-23a1-4272-acba-aca306be8dfd)
+
+## Material de apoio
+Como material de apoio poderá ser utilizado a documentação do C# abaixo:
+
+https://learn.microsoft.com/pt-br/dotnet/csharp/

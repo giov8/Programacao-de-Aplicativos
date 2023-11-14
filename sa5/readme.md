@@ -5,6 +5,9 @@ Criar uma classe em C# para guardar o personagem de um jogo de cartas para dois 
 Cada jogador possui um personagem com vida, força, defesa e uma lista cartas.
 As cartas podem ser de alguns tipos específicos. 
 
+## Entrega
+Enviar o arquivo **.CS** no AVA, em Avaliações > Atividade Presencial da SA5. **Até o intervalo (20h)** de hoje 17/11/2023!!
+
 ## Passo a passo
 Você pode criar o programa do zero ou utilizar o esqueleto **programa.cs** para implementar os passos a seguir:
 
@@ -41,8 +44,6 @@ Para fazer a leitura do teclado, será usada o método ReadLine(), exemplo abaix
 - https://caffeinealgorithm.com/blog/funcao-readline-em-csharp
 
 
-## Entrega
-Enviar o arquivo **.CS** no AVA, em Avaliações > Atividade Presencial da SA5. **Até o intervalo (20h)** de hoje 17/11/2023!!
 
 
 # Continuação do projeto

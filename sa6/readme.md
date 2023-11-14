@@ -3,7 +3,7 @@
 ## Entrega
 - A data para a entrega é **hoje 17/11/2023** no AVA. 
 - Na entrega, inclua os dois arquivos .cs: um com as classes do programa e outro com os testes unitários. Pode criar um arquivo compactado para isso (zip, rar, 7z...)
-- Implemente os testes para os 4 métodos: Adicionar(), Subtrair(), Multiplicar() e Dividir()
+- Implemente os testes para os 4 métodos: Somar(), Subtrair(), Multiplicar() e Dividir()
 
 
 ## Passo a passo

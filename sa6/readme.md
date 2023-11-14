@@ -1,8 +1,10 @@
 # Atividade Presencial SA6
 
 ## Entrega
-Deverá ser feita **hoje 17/11/2023** no AVA. 
-Deverão ser entregues os dois arquivos .cs: um com as classes do programa e outro com os testes unitários.
+- A data para a entrega é **hoje 17/11/2023** no AVA. 
+- Na entrega, inclua os dois arquivos .cs: um com as classes do programa e outro com os testes unitários. Pode criar um arquivo compactado para isso (zip, rar, 7z...)
+- Implemente os testes para os 4 métodos: Adicionar(), Subtrair(), Multiplicar() e Dividir()
+
 
 ## Passo a passo
 
@@ -31,6 +33,7 @@ Deverão ser entregues os dois arquivos .cs: um com as classes do programa e out
 14. Para executar os testes, clique no arquivo .cs do teste com o botão direito e em "Executar testes"
     ![image](https://github.com/giov8/Programacao-de-Aplicativos/assets/77603677/95703982-8f74-4445-91f8-41575844e568)
     ![image](https://github.com/giov8/Programacao-de-Aplicativos/assets/77603677/f884458e-6d81-46e2-9e29-7e0c21f86e40)
+    
 
 ## Material de apoio
 - https://www.macoratti.net/19/09/cshp_unitest1.htm

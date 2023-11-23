@@ -8,14 +8,14 @@ https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Porta
 1. Cada um vai criar um repositório no github.com
 1. Cada um vai adicionar o outro no seu projeto no github
 2. Abrir o git-bash
+3. Usem o comando `git clone`, um no repositório do outro.
 1. Faça a configuração do git:
 
 `git config --global/local user.name "[Seu nome]"`
 
 `git config --global/local user.email "[Seu endereço de e-mail]"`
 
-4. Usem o comando `git clone`, um no repositório do outro.
-5. 8. Quando forem trabalhar em conjunto no projeto, é assim que funciona:
+5. Quando forem trabalhar em conjunto no projeto, é assim que funciona:
 6. Criar uma nova branch para trabalhar `git branch "nome-branch"` nome-branch pode ser o nome que quiser, geralmente está relacionado com a funcionalidade que será implementada
 7. Agora, vamos mudar para a nova branch usando o comando ´git checkout nome-branch´
 8. Se deu certo vai aparecer o texto "Switched to branch ..."
